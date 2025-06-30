@@ -3725,10 +3725,11 @@ ul {
 .site-footer {
     position: relative;
     display: block;
-    background-color: var(--eston-black);
+    /* background-color: var(--eston-black); */
     z-index: 1;
     /* padding: 109px 0 35px; */
     padding: 80px 0 0px;
+    background-color: #000000;
 }
 
 .site-footer__top {
