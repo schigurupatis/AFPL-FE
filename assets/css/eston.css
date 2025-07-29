@@ -1748,6 +1748,20 @@ ul {
     z-index: 1;
 }
 
+@media (max-width: 446px) {
+    .main-slider__bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-size: 235% !important;
+        background-repeat: no-repeat;
+        background-position: center;
+        z-index: 1;
+    }
+}
+
 .main-slider__bg:before {
     content: "";
     position: absolute;
