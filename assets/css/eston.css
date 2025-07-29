@@ -1909,7 +1909,8 @@ ul {
 .main-slider__title span {
     font-family: var(--eston-font);
     font-size: 20px;
-    letter-spacing: normal;
+    letter-spacing: normal
+    ;
     
 }
 
